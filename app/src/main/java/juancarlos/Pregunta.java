@@ -1,7 +1,7 @@
 package juancarlos;
 
 /**
- * Created by Juan on 06/06/2016.
+ * Created by Juan on 06/04/2016.
  */
 public class Pregunta {
 
